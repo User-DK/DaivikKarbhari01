@@ -1,1 +1,87 @@
-{"data":{"user":{"name":"Daivik Karbhari","bio":"An Aspiring Computer Science Under Graduate","avatarUrl":"https://avatars.githubusercontent.com/u/114691318?u=b40925aa870c8c063afa08ebcfdd9439d2130f05&v=4","location":"India","pinnedItems":{"totalCount":6,"edges":[{"node":{"name":"Meet-Web-App","description":"Meet Web App","forkCount":0,"stargazers":{"totalCount":1},"url":"https://github.com/User-DK/Meet-Web-App","id":"R_kgDOLF18YQ","diskUsage":1685,"primaryLanguage":{"name":"JavaScript","color":"#f1e05a"}}},{"node":{"name":"DSA","description":"The Repository for DSA","forkCount":0,"stargazers":{"totalCount":0},"url":"https://github.com/User-DK/DSA","id":"R_kgDOLyF6AA","diskUsage":110,"primaryLanguage":{"name":"C++","color":"#f34b7d"}}},{"node":{"name":"example-Pybind","description":"Example of Python Bydings for Seldon.","forkCount":0,"stargazers":{"totalCount":0},"url":"https://github.com/User-DK/example-Pybind","id":"R_kgDOLhFeuA","diskUsage":10,"primaryLanguage":{"name":"C++","color":"#f34b7d"}}},{"node":{"name":"JS-certification","description":"Data Structures and Algorithm in JS","forkCount":0,"stargazers":{"totalCount":0},"url":"https://github.com/User-DK/JS-certification","id":"R_kgDOKUtkqA","diskUsage":13,"primaryLanguage":{"name":"JavaScript","color":"#f1e05a"}}},{"node":{"name":"Travel-preference-form","description":"survey form created in html and css as a part of free code camp certification for responsive web design","forkCount":0,"stargazers":{"totalCount":0},"url":"https://github.com/User-DK/Travel-preference-form","id":"R_kgDOKBTnLQ","diskUsage":61,"primaryLanguage":{"name":"HTML","color":"#e34c26"}}},{"node":{"name":"Tribute-Page","description":"A tribute page created as a part of free code camp certification for HTML and CSS","forkCount":0,"stargazers":{"totalCount":0},"url":"https://github.com/User-DK/Tribute-Page","id":"R_kgDOKIuaQA","diskUsage":46,"primaryLanguage":{"name":"HTML","color":"#e34c26"}}}]}}}}
+{
+  "data": {
+    "user": {
+      "name": "Daivik Karbhari",
+      "bio": "An Aspiring Computer Science Under Graduate",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/114691318?u=b40925aa870c8c063afa08ebcfdd9439d2130f05&v=4",
+      "location": "India",
+      "pinnedItems": {
+        "totalCount": 6,
+        "edges": [
+          {
+            "node": {
+              "name": "Meet-Web-App",
+              "description": "Meet Web App",
+              "forkCount": 0,
+              "stargazers": { "totalCount": 1 },
+              "url": "https://github.com/User-DK/Meet-Web-App",
+              "id": "R_kgDOLF18YQ",
+              "diskUsage": 1685,
+              "primaryLanguage": { "name": "JavaScript", "color": "#f1e05a" }
+            }
+          },
+          {
+            "node": {
+              "name": "DSA",
+              "description": "The Repository for DSA",
+              "forkCount": 0,
+              "stargazers": { "totalCount": 0 },
+              "url": "https://github.com/User-DK/DSA",
+              "id": "R_kgDOLyF6AA",
+              "diskUsage": 110,
+              "primaryLanguage": { "name": "C++", "color": "#f34b7d" }
+            }
+          },
+          {
+            "node": {
+              "name": "example-Pybind",
+              "description": "Example of Python Bydings for Seldon.",
+              "forkCount": 0,
+              "stargazers": { "totalCount": 0 },
+              "url": "https://github.com/User-DK/example-Pybind",
+              "id": "R_kgDOLhFeuA",
+              "diskUsage": 10,
+              "primaryLanguage": { "name": "C++", "color": "#f34b7d" }
+            }
+          },
+          {
+            "node": {
+              "name": "JS-certification",
+              "description": "Data Structures and Algorithm in JS",
+              "forkCount": 0,
+              "stargazers": { "totalCount": 0 },
+              "url": "https://github.com/User-DK/JS-certification",
+              "id": "R_kgDOKUtkqA",
+              "diskUsage": 13,
+              "primaryLanguage": { "name": "JavaScript", "color": "#f1e05a" }
+            }
+          },
+          {
+            "node": {
+              "name": "Travel-preference-form",
+              "description": "survey form created in html and css as a part of free code camp certification for responsive web design",
+              "forkCount": 0,
+              "stargazers": { "totalCount": 0 },
+              "url": "https://github.com/User-DK/Travel-preference-form",
+              "id": "R_kgDOKBTnLQ",
+              "diskUsage": 61,
+              "primaryLanguage": { "name": "HTML", "color": "#e34c26" }
+            }
+          },
+          {
+            "node": {
+              "name": "Tribute-Page",
+              "description": "A tribute page created as a part of free code camp certification for HTML and CSS",
+              "forkCount": 0,
+              "stargazers": { "totalCount": 0 },
+              "url": "https://github.com/User-DK/Tribute-Page",
+              "id": "R_kgDOKIuaQA",
+              "diskUsage": 46,
+              "primaryLanguage": { "name": "HTML", "color": "#e34c26" }
+            }
+          }
+        ]
+      }
+    }
+  }
+}
